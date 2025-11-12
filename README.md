@@ -1,4 +1,4 @@
-# cuddly-chainsaw
+# Skibidi DocDoc
 Group Project #2. DE: Scraping &amp; API. Python course, HSE University.
 
 **Анализ врачей Москвы: СберЗдоровье и ПроДокторов**
